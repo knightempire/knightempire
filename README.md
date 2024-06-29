@@ -5,9 +5,11 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-knightempire.github.io-blue)](https://knightempire.github.io/abi-portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/abinesh-t/)
 
-## Software Developer with a Focus on Full Stack Web Development
+## About Me
+Software Developer with a Focus on Full Stack Web Development. 
+I Craft Digital Solutions that make an Impact. Chess player.
 
-### 🛠 Programming Languages and Frameworks
+## 🛠 Programming Languages and Frameworks
 <div>
     <img src="https://img.icons8.com/color/48/000000/html-5.png" title="HTML" alt="HTML"/>
     <img src="https://img.icons8.com/color/48/000000/css3.png" title="CSS" alt="CSS"/>
@@ -31,15 +33,17 @@
     <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" title="Java" alt="Java"/>
     <img src="https://img.icons8.com/color/48/000000/django.png" title="Django" alt="Django"/>
     <img src="https://img.icons8.com/color/48/000000/golang.png" title="Go" alt="Go"/>
-
 </div>
+
+---
+
+![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=knightempire&theme=react-dark)
 
 ---
 
 ### 📫 Contact
 
 - **Email:** [knightempire24@gmail.com](mailto:knightempire24@gmail.com)
-
 
 Feel free to reach out if you have any questions or just want to connect!
 
