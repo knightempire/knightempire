@@ -1,37 +1,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=knightempire&color=blue)
 
-    <style>
-        @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
-        body {
-            font-family: 'Poppins', sans-serif;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-            background-color: #000000;
-        }
-        
-        h1 {
-            font-size: 3rem;
-            color: #f6f6f6;
-        }
-    </style>
-</head>
-
-<body>
-    <h1 id="title">I'm Abinesh T</h1>
-
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.9.1/gsap.min.js"></script>
-    <script>
-        gsap.from("#title", {
-            duration: 2,
-            y: -50,
-            opacity: 0,
-            ease: "bounce.out"
-        });
-    </script>
-</body>
-
+# I'm Abinesh T
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-knightempire.github.io-blue)](https://knightempire.github.io/abi-portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/abinesh-t/)
@@ -61,6 +30,7 @@
     <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" title="C++" alt="C++"/>
     <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" title="Java" alt="Java"/>
     <img src="https://img.icons8.com/color/48/000000/django.png" title="Django" alt="Django"/>
+    <img src="https://img.icons8.com/ios/50/000000/sql.png" title="SQL" alt="SQL"/>
     <img src="https://img.icons8.com/color/48/000000/golang.png" title="Go" alt="Go"/>
 
 </div>
@@ -70,7 +40,7 @@
 ### 📫 Contact
 
 - **Email:** [knightempire24@gmail.com](mailto:knightempire24@gmail.com)
-
+- **Phone:** +91 9499964935
 
 Feel free to reach out if you have any questions or just want to connect!
 
