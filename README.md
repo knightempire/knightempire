@@ -45,6 +45,11 @@
 
 ---
 
+### GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=knightempire&show_icons=true&theme=radical)
+
+---
+
 ### 💬 Collaboration
 
 I'm open to collaborations and contributions! If you have any exciting projects or ideas, feel free to [get in touch](mailto:knightempire24@gmail.com).
