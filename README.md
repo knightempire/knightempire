@@ -1,14 +1,37 @@
-# Hi, I'm Abinesh T 👋
+![Profile Views](https://komarev.com/ghpvc/?username=knightempire&color=blue)
+
+# I'm Abinesh T
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-knightempire.github.io-blue)](https://knightempire.github.io/abi-portfolio/)
-[![GitHub](https://img.shields.io/badge/GitHub-knightempire-lightgrey)](https://github.com/knightempire)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/abinesh-t/)
 
-## About Me
+## Software Developer with a Focus on Full Stack Web Development
 
-I'm a dedicated Computer Science Engineering student at Amrita Vishwa Vidyapeetham with a deep-seated passion for technology and innovation. I revel in overcoming challenges both in code and beyond. As a Full Stack Developer, I seamlessly fuse creativity with technical proficiency to shape immersive digital experiences. Beyond my coding endeavors, my passion for chess invigorates my quest for excellence and enhances my strategic acumen.
+### 🛠 Programming Languages and Frameworks
+<div>
+    <img src="https://img.icons8.com/color/48/000000/html-5.png" title="HTML" alt="HTML"/>
+    <img src="https://img.icons8.com/color/48/000000/css3.png" title="CSS" alt="CSS"/>
+    <img src="https://img.icons8.com/color/48/000000/javascript.png" title="JavaScript" alt="JavaScript"/>
+    <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" title="Tailwind CSS" alt="Tailwind CSS"/>
+    <img src="https://img.icons8.com/color/48/000000/bootstrap.png" title="Bootstrap" alt="Bootstrap"/>
+    <img src="https://img.icons8.com/plasticine/48/000000/react.png" title="React" alt="React"/>
+    <img src="https://img.icons8.com/color/48/000000/nextjs.png" title="Next.js" alt="Next.js"/>
+    <img src="https://img.icons8.com/color/48/000000/nodejs.png" title="Node.js" alt="Node.js"/>
+    <img src="https://img.icons8.com/color/48/000000/express.png" title="Express.js" alt="Express.js"/>
+    <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" title="MySQL" alt="MySQL"/>
+    <img src="https://img.icons8.com/color/48/000000/postgreesql.png" title="PostgreSQL" alt="PostgreSQL"/>
+    <img src="https://img.icons8.com/color/48/000000/mongodb.png" title="MongoDB" alt="MongoDB"/>
+    <img src="https://img.icons8.com/color/48/000000/firebase.png" title="Firebase" alt="Firebase"/>
+    <img src="https://img.icons8.com/officel/48/000000/php-logo.png" title="PHP" alt="PHP"/>
+    <img src="https://img.icons8.com/color/48/000000/azure-1.png" title="Azure App Service" alt="Azure App Service"/>
+    <img src="https://img.icons8.com/color/48/000000/nginx.png" title="NGINX" alt="NGINX"/>
+</div>
 
+---
 
+### 📫 Contact
+
+- **Email:** [knightempire24@gmail.com](mailto:knightempire24@gmail.com)
 
 
 Feel free to reach out if you have any questions or just want to connect!
