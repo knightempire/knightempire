@@ -39,7 +39,7 @@
 
 ---
 
-[![knightempire's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=knightempire)](https://github.com/knightempire/github-readme-activity-graph)
+[![knightempire's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=knightempire&theme=dracula)](https://github.com/knightempire/github-readme-activity-graph)
 
 ---
 
