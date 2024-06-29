@@ -1,6 +1,37 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=knightempire&color=blue)
 
-# I'm Abinesh T
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+        body {
+            font-family: 'Poppins', sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #000000;
+        }
+        
+        h1 {
+            font-size: 3rem;
+            color: #f6f6f6;
+        }
+    </style>
+</head>
+
+<body>
+    <h1 id="title">I'm Abinesh T</h1>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.9.1/gsap.min.js"></script>
+    <script>
+        gsap.from("#title", {
+            duration: 2,
+            y: -50,
+            opacity: 0,
+            ease: "bounce.out"
+        });
+    </script>
+</body>
+
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-knightempire.github.io-blue)](https://knightempire.github.io/abi-portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/abinesh-t/)
