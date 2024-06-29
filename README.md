@@ -9,31 +9,30 @@
 
 ### 🛠 Programming Languages and Frameworks
 <div>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="CSS" alt="CSS" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" title="jQuery" alt="jQuery" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" title="Next.js" alt="Next.js" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" alt="Node.js" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" title="Express.js" alt="Express.js" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" title="Azure App Service" alt="Azure App Service" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" title="NGINX" alt="NGINX" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" title="Django" alt="Django" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain-wordmark.svg" title="SQL" alt="SQL" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" title="Go" alt="Go" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gsap/gsap-original.svg" title="GSAP" alt="GSAP" width="40" height="40"/>
+    <img src="https://img.icons8.com/color/48/000000/html-5.png" title="HTML" alt="HTML"/>
+    <img src="https://img.icons8.com/color/48/000000/css3.png" title="CSS" alt="CSS"/>
+    <img src="https://img.icons8.com/color/48/000000/javascript.png" title="JavaScript" alt="JavaScript"/>
+    <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" title="Tailwind CSS" alt="Tailwind CSS"/>
+    <img src="https://img.icons8.com/color/48/000000/bootstrap.png" title="Bootstrap" alt="Bootstrap"/>
+    <img src="https://img.icons8.com/plasticine/48/000000/react.png" title="React" alt="React"/>
+    <img src="https://img.icons8.com/color/48/000000/nextjs.png" title="Next.js" alt="Next.js"/>
+    <img src="https://img.icons8.com/color/48/000000/nodejs.png" title="Node.js" alt="Node.js"/>
+    <img src="https://img.icons8.com/color/48/000000/express.png" title="Express.js" alt="Express.js"/>
+    <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" title="MySQL" alt="MySQL"/>
+    <img src="https://img.icons8.com/color/48/000000/postgreesql.png" title="PostgreSQL" alt="PostgreSQL"/>
+    <img src="https://img.icons8.com/color/48/000000/mongodb.png" title="MongoDB" alt="MongoDB"/>
+    <img src="https://img.icons8.com/color/48/000000/firebase.png" title="Firebase" alt="Firebase"/>
+    <img src="https://img.icons8.com/officel/48/000000/php-logo.png" title="PHP" alt="PHP"/>
+    <img src="https://img.icons8.com/color/48/000000/azure-1.png" title="Azure App Service" alt="Azure App Service"/>
+    <img src="https://img.icons8.com/color/48/000000/nginx.png" title="NGINX" alt="NGINX"/>
+    <img src="https://img.icons8.com/color/48/000000/python.png" title="Python" alt="Python"/>
+    <img src="https://img.icons8.com/color/48/000000/c-programming.png" title="C" alt="C"/>
+    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" title="C++" alt="C++"/>
+    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" title="Java" alt="Java"/>
+    <img src="https://img.icons8.com/color/48/000000/django.png" title="Django" alt="Django"/>
+    <img src="https://img.icons8.com/ios/50/000000/sql.png" title="SQL" alt="SQL"/>
+    <img src="https://img.icons8.com/color/48/000000/golang.png" title="Go" alt="Go"/>
+
 </div>
 
 ---
