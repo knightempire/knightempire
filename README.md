@@ -6,8 +6,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/abinesh-t/)
 
 ## About Me
-Software Developer with a Focus on Full Stack Web Development. 
-I Craft Digital Solutions that make an Impact. Chess player.
+- Software Developer with a Focus on Full Stack Web Development.
+- I Craft Digital Solutions that make an Impact.
+- Chess player.
+
 
 ## 🛠 Programming Languages and Frameworks
 <div>
