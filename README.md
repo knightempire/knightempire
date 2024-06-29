@@ -39,7 +39,7 @@
 ### 📫 Contact
 
 - **Email:** [knightempire24@gmail.com](mailto:knightempire24@gmail.com)
-- **Phone:** +91 9499964935
+
 
 Feel free to reach out if you have any questions or just want to connect!
 
