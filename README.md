@@ -1,6 +1,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=knightempire&color=blue)
 
-# I'm Abinesh T
+# <span style="font-size: 2em; font-weight: bold; color: #4c9f70;">I'm Abinesh T</span>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-knightempire.github.io-blue)](https://knightempire.github.io/abi-portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/abinesh-t/)
@@ -9,6 +9,7 @@
 - Software Developer with a Focus on Full Stack Web Development.
 - I Craft Digital Solutions that make an Impact.
 - Chess player.
+
 
 ## 🛠 Tech Stack
 <div>
@@ -42,14 +43,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-[![knightempire's GitHub stats](https://github-readme-stats.vercel.app/api?username=knightempire&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=knightempire&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 ### 📫 Contact
 
 - **Email:** [knightempire24@gmail.com](mailto:knightempire24@gmail.com)
@@ -59,3 +52,7 @@ Feel free to reach out if you have any questions or just want to connect!
 ---
 
 ✨ Thank you for visiting my GitHub profile! ✨
+
+
+
+add githhub stats
