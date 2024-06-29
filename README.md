@@ -39,7 +39,7 @@
 
 ---
 
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=knightempire&theme=react-dark)
+![GitHub Contribution Graph](https:/github-readme-activity-graph.vercel.app//graph?username=knightempire&theme=react-dark)
 
 ---
 
