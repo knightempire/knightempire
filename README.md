@@ -5,7 +5,7 @@
 
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-knightempire.github.io-blue)](https://knightempire.github.io/abi-portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/abinesh-t/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([https://www.linkedin.com/in/abinesh-t/](https://www.linkedin.com/in/abinesh-t-4732a8222/))
 
 ## About Me
 - Software Developer with a Focus on Full Stack Web Development.
