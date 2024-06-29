@@ -10,8 +10,7 @@
 - I Craft Digital Solutions that make an Impact.
 - Chess player.
 
-
-## 🛠 Programming Languages and Frameworks
+## 🛠 Tech Stack
 <div>
     <img src="https://img.icons8.com/color/48/000000/html-5.png" title="HTML" alt="HTML"/>
     <img src="https://img.icons8.com/color/48/000000/css3.png" title="CSS" alt="CSS"/>
@@ -40,6 +39,14 @@
 ---
 
 [![knightempire's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=knightempire&theme=react-dark)](https://github.com/knightempire/github-readme-activity-graph)
+
+---
+
+### 📊 GitHub Stats
+
+[![knightempire's GitHub stats](https://github-readme-stats.vercel.app/api?username=knightempire&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=knightempire&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
