@@ -52,7 +52,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=knightempire&layout=compact&theme=react)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=knightempire&show_icons=true&theme=react)
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=knightempire&theme=react&hide_rank=true)
+
+
 
 
 
