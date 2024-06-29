@@ -1,6 +1,13 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=knightempire&color=blue)
 
-# <span style="font-size: 2em; font-weight: bold; color: #4c9f70;">I'm Abinesh T</span>
+# <span style="font-size: 2em; font-weight: bold; color: #4c9f70; animation: pulse 1.5s infinite;">I'm Abinesh T</span>
+
+@keyframes pulse {
+    0% { transform: scale(1); }
+    50% { transform: scale(1.05); }
+    100% { transform: scale(1); }
+}
+
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-knightempire.github.io-blue)](https://knightempire.github.io/abi-portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/abinesh-t/)
@@ -55,4 +62,3 @@ Feel free to reach out if you have any questions or just want to connect!
 
 
 
-add githhub stats
