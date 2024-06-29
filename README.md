@@ -45,11 +45,9 @@
 
 ---
 
-### 📫 Contact
+### 💬 Collaboration
 
-- **Email:** [knightempire24@gmail.com](mailto:knightempire24@gmail.com)
-
-Feel free to reach out if you have any questions or just want to connect!
+I'm open to collaborations and contributions! If you have any exciting projects or ideas, feel free to [get in touch](mailto:knightempire24@gmail.com).
 
 ---
 
