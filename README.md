@@ -39,7 +39,7 @@
 
 ---
 
-![GitHub Contribution Graph](https:/github-readme-activity-graph.vercel.app//graph?username=knightempire&theme=react-dark)
+[![knightempire's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=knightempire)](https://github.com/knightempire/github-readme-activity-graph)
 
 ---
 
