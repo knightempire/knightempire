@@ -52,7 +52,15 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=knightempire&layout=compact&theme=react)
 
+### GitHub Activity
+
+![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+
+### GitHub Stats
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=knightempire&show_icons=true&theme=react&hide_rank=true)
+
+---
 
 
 
