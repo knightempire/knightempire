@@ -52,8 +52,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=knightempire&layout=compact&theme=react)
 
-<!-- Total Commits Badge -->
-<img src="https://img.shields.io/github/commit-activity/y/knightempire/knightempire?label=Total%20Commits&style=plastic&color=blue" alt="Total Commits">
+![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=knightempire&show_icons=true&theme=react)
+
 
 
 
