@@ -1,21 +1,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=knightempire&color=blue)
 
-# <span id="typewriter-text" style="font-size: 2em; font-weight: bold; color: #4c9f70;"></span>
+# I'm Abinesh T
 
-<script>
-    const text = "I'm Abinesh T";
-    let index = 0;
-
-    function typeWriter() {
-        document.getElementById('typewriter-text').textContent += text[index];
-        index++;
-        if (index < text.length) {
-            setTimeout(typeWriter, 100); // Adjust the typing speed here (milliseconds)
-        }
-    }
-
-    typeWriter();
-</script>
 
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-knightempire.github.io-blue)](https://knightempire.github.io/abi-portfolio/)
