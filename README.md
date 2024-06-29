@@ -1,6 +1,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=knightempire&color=blue)
 
-# <span class="typewriter" style="font-size: 2em; font-weight: bold; color: #4c9f70;">I'm Abinesh T</span>
+**# <span class="typewriter" style="font-size: 2em; font-weight: bold; color: #4c9f70;">I'm Abinesh T</span>
 
 <style>
     @keyframes typing {
@@ -15,7 +15,7 @@
         animation: typing 3s steps(30, end);
     }
 </style>
-
+**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-knightempire.github.io-blue)](https://knightempire.github.io/abi-portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/abinesh-t/)
