@@ -41,15 +41,13 @@
 
 ---
 
-[![knightempire's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=knightempire&theme=react-dark)](https://github.com/knightempire/github-readme-activity-graph)
-
----
-
 ### GitHub Stats
 
- ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=knightempire&theme=react)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=knightempire&layout=compact&theme=react) 
+[![knightempire's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=knightempire&theme=react-dark)](https://github.com/knightempire/github-readme-activity-graph)
 
 
+
+| ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=knightempire&theme=react) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=knightempire&layout=compact&theme=react) |
 
 ---
 
