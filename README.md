@@ -47,6 +47,8 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=knightempire&theme=dark)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=knightempire&theme=dark)
+
 
 ---
 
