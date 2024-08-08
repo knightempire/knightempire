@@ -45,9 +45,18 @@
 
 [![knightempire's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=knightempire&theme=react-dark)](https://github.com/knightempire/github-readme-activity-graph)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=knightempire&theme=dark)
+<div style="display: flex; justify-content: space-between;">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=knightempire&theme=dark)
+  <div style="flex: 1; margin-right: 10px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=knightempire&theme=dark" alt="GitHub Streak" style="width: 100%; max-width: 500px;">
+  </div>
+
+  <div style="flex: 1; margin-left: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=knightempire&theme=dark" alt="Top Languages" style="width: 100%; max-width: 500px;">
+  </div>
+
+</div>
+
 
 
 ---
