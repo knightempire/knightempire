@@ -51,14 +51,14 @@
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=knightempire&theme=dark" alt="GitHub Streak" width="400" />
     </td>
     <td>
-
+       <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=knightempire&layout=compact&theme=dark" alt="GitHub Streak" width="400" />
 
     </td>
   </tr>
 </table>
 
 </div>
-     ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=knightempire&layout=compact&theme=dark)
+
 
 
 ---
