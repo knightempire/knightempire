@@ -51,7 +51,8 @@
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=knightempire&theme=dark" alt="GitHub Streak" width="400" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=knightempire&theme=dark" alt="Top Languages" width="400" />
+     ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=knightempire&layout=compact&theme=dark)
+
     </td>
   </tr>
 </table>
