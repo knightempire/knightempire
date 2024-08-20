@@ -65,7 +65,7 @@
 
 ### 💬 Collaboration
 
-I'm open to collaborations and contributions! If you have any exciting projects or ideas, feel free to [get in touch](https://img.shields.io/badge/Portfolio-knightempire.github.io-blue)](https://knightempire.github.io/abi-portfolio/).
+I'm open to collaborations and contributions! If you have any exciting projects or ideas, feel free to [get in touch](https://knightempire.github.io/abi-portfolio/).
 
 ---
 
