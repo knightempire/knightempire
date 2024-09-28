@@ -8,9 +8,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([https://www.linkedin.com/in/abinesh-t/](https://www.linkedin.com/in/abinesh-t-4732a8222/))
 
 ## About Me
-- ![Developer GIF](https://media.tenor.com/images/4c20211b45c3b362bcd2c4c50eb623b2/tenor.gif) Software Developer with a Focus on Full Stack Web Development.
-- ![Impact GIF](https://media.tenor.com/images/d52c07d8a045ca77c90c3cf9f88c47e5/tenor.gif) I Craft Digital Solutions that make an Impact.
-- ![Chess GIF](https://media.tenor.com/images/1c6d0d5bb3d58e5c3ab64a5e200c0cb5/tenor.gif) Chess player.
+- Software Developer with a Focus on Full Stack Web Development.
+- I Craft Digital Solutions that make an Impact.
+- Chess player.
+
+
 
 
 
