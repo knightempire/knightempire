@@ -51,17 +51,12 @@
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=knightempire&theme=react" alt="GitHub Streak" width="400" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=knightempire&layout=compact&theme=react" alt="Top Languages" width="400" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <img src="https://github-readme-stats.vercel.app/api?username=knightempire&show_icons=true&theme=react" alt="GitHub Stats" width="800" />
-    </td>
+       <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=knightempire&layout=compact&theme=react" alt="GitHub Streak" width="400" />
+
+   
   </tr>
 </table>
 
-</table>
 
 </div>
 
