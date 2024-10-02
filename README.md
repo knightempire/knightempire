@@ -1,6 +1,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=knightempire&color=blue)
 
 # I'm Abinesh T
+![My Animated GIF](https://pin.it/1IhMxoyIE)
 
 [![My Image](https://pin.it/1IhMxoyIE)](https://pin.it/1IhMxoyIE)
 
