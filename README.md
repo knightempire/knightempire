@@ -1,9 +1,8 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=knightempire&color=blue)
 
 # I'm Abinesh T
-![My Animated GIF](https://pin.it/1IhMxoyIE)
+[Check out my Pinterest Video](https://assets.pinterest.com/ext/embed.html?id=220113500529722712)  
 
-[![My Image](https://pin.it/1IhMxoyIE)](https://pin.it/1IhMxoyIE)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-knightempire.github.io-blue)](https://knightempire.github.io/abi-portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([https://www.linkedin.com/in/abinesh-t/](https://www.linkedin.com/in/abinesh-t-4732a8222/))
