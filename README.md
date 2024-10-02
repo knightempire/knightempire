@@ -1,6 +1,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=knightempire&color=blue)
 
-![My Looping GIF](https://i.pinimg.com/originals/01/f2/b5/01f2b5343d905ce6810cdbf2c40a7931.gif)
+
 
 # I'm Abinesh T
 
