@@ -7,9 +7,7 @@
       ![Profile Views](https://komarev.com/ghpvc/?username=knightempire&color=blue)
     </td>
   </tr>
-</table>
-
-
+</table
 
 
 
