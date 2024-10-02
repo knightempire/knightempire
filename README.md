@@ -1,11 +1,12 @@
-<div style="display: flex; justify-content: space-between; align-items: center;">
-    <div>
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+    <div style="flex: 1; padding-right: 20px;">
+        <h2>Portfolio</h2>
         <a href="https://knightempire.github.io/abi-portfolio/">
             <img src="https://img.shields.io/badge/Portfolio-knightempire.github.io-blue" alt="Portfolio"/>
         </a>
     </div>
-    <div>
-        <img src="https://komarev.com/ghpvc/?username=knightempire&color=blue" alt="Profile Views"/>
+    <div style="flex: 0 0 200px; text-align: right;">
+        <img src="https://komarev.com/ghpvc/?username=knightempire&color=blue" alt="Profile Views" />
     </div>
 </div>
 
