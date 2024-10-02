@@ -1,14 +1,5 @@
-<div style="display: flex; justify-content: space-between; align-items: center; padding: 20px;">
-    <div style="flex: 1;">
-        <h2>Portfolio</h2>
-        <a href="https://knightempire.github.io/abi-portfolio/">
-            <img src="https://img.shields.io/badge/Portfolio-knightempire.github.io-blue" alt="Portfolio"/>
-        </a>
-    </div>
-    <div style="text-align: right;">
-        <img src="https://komarev.com/ghpvc/?username=knightempire&color=blue" alt="Profile Views" />
-    </div>
-</div>
+![Profile Views](https://komarev.com/ghpvc/?username=knightempire&color=blue)
+
 
 
 
