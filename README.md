@@ -1,6 +1,13 @@
-![Profile Views](https://komarev.com/ghpvc/?username=knightempire&color=blue)
-[![Portfolio](https://img.shields.io/badge/Portfolio-knightempire.github.io-blue)](https://knightempire.github.io/abi-portfolio/)
-
+<table>
+  <tr>
+    <td>
+      [![Portfolio](https://img.shields.io/badge/Portfolio-knightempire.github.io-blue)](https://knightempire.github.io/abi-portfolio/)
+    </td>
+    <td align="right">
+      ![Profile Views](https://komarev.com/ghpvc/?username=knightempire&color=blue)
+    </td>
+  </tr>
+</table>
 
 
 
