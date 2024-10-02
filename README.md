@@ -1,7 +1,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=knightempire&color=blue)
 
 # I'm Abinesh T
-[Check out my Pinterest Video](https://assets.pinterest.com/ext/embed.html?id=220113500529722712)  
+
 
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-knightempire.github.io-blue)](https://knightempire.github.io/abi-portfolio/)
