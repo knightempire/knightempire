@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://i.pinimg.com/originals/01/f2/b5/01f2b5343d905ce6810cdbf2c40a7931.gif" width="800" height="600" alt="Your GIF" />
+    <img src="https://i.pinimg.com/originals/01/f2/b5/01f2b5343d905ce6810cdbf2c40a7931.gif" width="600" height="600" alt="Your GIF" />
 </div>
 
 
