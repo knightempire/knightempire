@@ -35,6 +35,8 @@
 
 [![knightempire's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=knightempire&theme=react-dark)](https://github.com/knightempire/github-readme-activity-graph)
 
+
+<div align="center">
 <table>
   <tr>
     <td>
@@ -46,7 +48,6 @@
    
   </tr>
 </table>
-
 
 </div>
 
