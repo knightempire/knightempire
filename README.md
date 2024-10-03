@@ -38,10 +38,10 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=knightempire&theme=react" alt="GitHub Streak" width="400" height="500"  />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=knightempire&theme=react" alt="GitHub Streak" width="400"  height="100" />
     </td>
     <td>
-       <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=knightempire&layout=compact&theme=react" alt="GitHub Streak" width="400" height="500" />
+       <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=knightempire&layout=compact&theme=react" alt="GitHub Streak" width="400" height="100"  />
 
    
   </tr>
