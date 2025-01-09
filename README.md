@@ -40,7 +40,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=knightempire&theme=react" alt="GitHub Streak" width="400"  height="200" />
+ <img src="https://streak-stats.demolab.com?user=knightempire&theme=react" alt="GitHub Streak" width="400" height="200" /
     </td>
     <td>
        <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=knightempire&layout=compact&theme=react" alt="GitHub Streak" width="300" height="200"  />
