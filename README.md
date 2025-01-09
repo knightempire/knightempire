@@ -38,15 +38,21 @@
 
 <div align="center">
 <table>
-  <tr>
-    <td>
- <img src="https://streak-stats.demolab.com?user=knightempire&theme=react" alt="GitHub Streak" width="400" height="200" /
-    </td>
-    <td>
-       <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=knightempire&layout=compact&theme=react" alt="GitHub Streak" width="300" height="200"  />
+<tr>
+<td>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=knightempire&theme=react" alt="GitHub Streak" width="400" height="200" />
+</td>
 
-   
-  </tr>
+  <td>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=knightempire&layout=compact&theme=react" alt="GitHub Top Languages" width="300" height="200" />
+  </td>
+</tr>
+<tr>
+  <td colspan="2">
+    <img src="https://github-readme-stats.vercel.app/api?username=knightempire&show_icons=true&theme=react" alt="GitHub Stats" width="700" />
+  </td>
+</tr>
+
 </table>
 
 </div>
