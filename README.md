@@ -20,13 +20,17 @@
     <img src="https://img.icons8.com/color/48/000000/firebase.png" title="Firebase" alt="Firebase"/>
     <img src="https://img.icons8.com/officel/48/000000/php-logo.png" title="PHP" alt="PHP"/>
     <img src="https://img.icons8.com/color/48/000000/azure-1.png" title="Azure App Service" alt="Azure App Service"/>
+    <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" title="AWS" alt="AWS"/>
     <img src="https://img.icons8.com/color/48/000000/nginx.png" title="NGINX" alt="NGINX"/>
+    <img src="https://img.icons8.com/color/48/000000/ubuntu.png" title="Ubuntu" alt="Ubuntu"/>
     <img src="https://img.icons8.com/color/48/000000/python.png" title="Python" alt="Python"/>
     <img src="https://img.icons8.com/color/48/000000/c-programming.png" title="C" alt="C"/>
     <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" title="C++" alt="C++"/>
     <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" title="Java" alt="Java"/>
     <img src="https://img.icons8.com/color/48/000000/django.png" title="Django" alt="Django"/>
     <img src="https://img.icons8.com/color/48/000000/golang.png" title="Go" alt="Go"/>
+  
+
 </div>
 
 ---
