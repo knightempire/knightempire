@@ -2,7 +2,7 @@
     <img src="https://i.pinimg.com/originals/01/f2/b5/01f2b5343d905ce6810cdbf2c40a7931.gif" width="700" height="500" alt="Your GIF" />
 </div>
 
- 
+  
 ## 🛠 Tech Stack
 <div>
     <img src="https://img.icons8.com/color/48/000000/html-5.png" title="HTML" alt="HTML"/>
