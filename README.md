@@ -8,12 +8,14 @@
     <img src="https://img.icons8.com/color/48/000000/html-5.png" title="HTML" alt="HTML"/>
     <img src="https://img.icons8.com/color/48/000000/css3.png" title="CSS" alt="CSS"/>
     <img src="https://img.icons8.com/color/48/000000/javascript.png" title="JavaScript" alt="JavaScript"/>
+    <img src="https://img.icons8.com/color/48/000000/typescript.png" title="TypeScript" alt="TypeScript" />
     <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" title="Tailwind CSS" alt="Tailwind CSS"/>
     <img src="https://img.icons8.com/color/48/000000/bootstrap.png" title="Bootstrap" alt="Bootstrap"/>
     <img src="https://img.icons8.com/plasticine/48/000000/react.png" title="React" alt="React"/>
     <img src="https://img.icons8.com/color/48/000000/nextjs.png" title="Next.js" alt="Next.js"/>
     <img src="https://img.icons8.com/color/48/000000/nodejs.png" title="Node.js" alt="Node.js"/>
     <img src="https://img.icons8.com/color/48/000000/express.png" title="Express.js" alt="Express.js"/>
+        <img src="https://img.icons8.com/color/48/000000/django.png" title="Django" alt="Django"/>
     <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" title="MySQL" alt="MySQL"/>
     <img src="https://img.icons8.com/color/48/000000/postgreesql.png" title="PostgreSQL" alt="PostgreSQL"/>
     <img src="https://img.icons8.com/color/48/000000/mongodb.png" title="MongoDB" alt="MongoDB"/>
@@ -21,14 +23,15 @@
     <img src="https://img.icons8.com/officel/48/000000/php-logo.png" title="PHP" alt="PHP"/>
     <img src="https://img.icons8.com/color/48/000000/azure-1.png" title="Azure App Service" alt="Azure App Service"/>
     <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" title="AWS" alt="AWS"/>
+    <img src="https://img.icons8.com/color/48/000000/google-cloud.png" title="GCP" alt="GCP"/>
     <img src="https://img.icons8.com/color/48/000000/nginx.png" title="NGINX" alt="NGINX"/>
     <img src="https://img.icons8.com/color/48/000000/ubuntu.png" title="Ubuntu" alt="Ubuntu"/>
     <img src="https://img.icons8.com/color/48/000000/python.png" title="Python" alt="Python"/>
     <img src="https://img.icons8.com/color/48/000000/c-programming.png" title="C" alt="C"/>
     <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" title="C++" alt="C++"/>
     <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" title="Java" alt="Java"/>
-    <img src="https://img.icons8.com/color/48/000000/django.png" title="Django" alt="Django"/>
     <img src="https://img.icons8.com/color/48/000000/golang.png" title="Go" alt="Go"/>
+
   
 
 </div>
