@@ -15,7 +15,8 @@
     <img src="https://img.icons8.com/color/48/000000/nextjs.png" title="Next.js" alt="Next.js"/>
     <img src="https://img.icons8.com/color/48/000000/nodejs.png" title="Node.js" alt="Node.js"/>
     <img src="https://img.icons8.com/color/48/000000/express.png" title="Express.js" alt="Express.js"/>
-        <img src="https://img.icons8.com/color/48/000000/django.png" title="Django" alt="Django"/>
+    <img src="https://img.icons8.com/color/48/000000/django.png" title="Django" alt="Django"/>
+    <img src="https://img.icons8.com/color/48/000000/flask.png" title="Flask" alt="Flask" />
     <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" title="MySQL" alt="MySQL"/>
     <img src="https://img.icons8.com/color/48/000000/postgreesql.png" title="PostgreSQL" alt="PostgreSQL"/>
     <img src="https://img.icons8.com/color/48/000000/mongodb.png" title="MongoDB" alt="MongoDB"/>
