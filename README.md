@@ -32,6 +32,8 @@
     <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" title="C++" alt="C++"/>
     <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" title="Java" alt="Java"/>
     <img src="https://img.icons8.com/color/48/000000/golang.png" title="Go" alt="Go"/>
+    <img src="https://img.icons8.com/color/48/000000/kotlin.png" title="Kotlin" alt="Kotlin"/>
+    <img src="https://img.icons8.com/color/48/000000/android-studio.png" title="android-studio" alt="android-studio"/>
 
   
 
