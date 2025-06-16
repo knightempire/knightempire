@@ -1,3 +1,16 @@
+
+
+
+
+<!-- introduction -->
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+Abinesh!;&center=true&font=Righteous&size=35">
+  </a>
+</h1>
+
+
+
 <div align="center">
     <img src="https://i.pinimg.com/originals/01/f2/b5/01f2b5343d905ce6810cdbf2c40a7931.gif" width="700" height="500" alt="Your GIF" />
 </div>
@@ -39,33 +52,56 @@
 
 </div>
 
----
-
-### GitHub Stats
-
-[![knightempire's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=knightempire&theme=react-dark)](https://github.com/knightempire/github-readme-activity-graph)
-
-
+<!-- snake graph -->
 <div align="center">
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=knightempire&theme=react" alt="GitHub Streak" width="400" height="200" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=knightempire&layout=compact&theme=react" alt="GitHub Top Languages" width="400" height="200" />
-    </td>
-  </tr>
-    
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=knightempire&show_icons=true&theme=react" alt="GitHub Stats" width="400" height="200" />
-    </td>
-    <td>
-      <img src="https://github-profile-trophy.vercel.app/?username=knightempire&theme=react&no-frame=true" alt="GitHub Followers" width="400" height="200" />
-    </td>
-  </tr>
-</table>
+  <h2> Snake eating my contribution </h2>
+  <br />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/knightempire/knightempire/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/knightempire/knightempire/blob/output/github-contribution-grid-snake.svg" />
+    <img src="https://github.com/knightempire/knightempire/blob/output/github-contribution-grid-snake.svg" alt="github-snake" />
+  </picture>
+  <br />
+  <br />
+  <br />
+</div>
+
+
+
+<!-- stats -->
+<h2 align="center"> Stats </h2>
+<br />
+<p align=center>
+<!-- first row -->
+  <div align=center>
+  <!-- streak stats -->
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=knightempire&theme=react&hide_border=true" />
+        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://streak-stats.demolab.com/?user=knightempire&theme=default&border=61dafb" />
+        <img align="left" width=390 src="https://streak-stats.demolab.com/?user=knightempire&theme=default&border=61dafb" alt="knightempire's streak stats" />
+      </picture>
+    </a>
+  <!-- github stats -->
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=knightempire&show_icons=true&theme=react&hide_border=true" />
+        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api?username=knightempire&show_icons=true&theme=default&border_color=61dafb" />
+        <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=knightempire&show_icons=true&theme=default&border_color=61dafb" alt="knightempire's github stats" />
+      </picture>
+    </a>
+  </div>
+  <!-- spaces -->
+<br /><br /><br /><br /><br /><br /><br /><br /><br />
+  <!-- contribution graph -->
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" title="Go to Source">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=knightempire&theme=react-dark" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=knightempire&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" />
+      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=knightempire&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" alt="knightempire's contribution graph" />
+    </picture>
+  </a>
+</p>
 
 
 </div>
