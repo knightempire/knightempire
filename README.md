@@ -57,9 +57,9 @@
   <h2> Snake eating my contribution </h2>
   <br />
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/knightempire/knightempire/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/knightempire/knightempire/blob/output/github-contribution-grid-snake.svg" />
-    <img src="https://github.com/knightempire/knightempire/blob/output/github-contribution-grid-snake.svg" alt="github-snake" />
+    <source media="(prefers-color-scheme: dark)" srcset=https://raw.githubusercontent.com/knightempire/git_profile/ef1ef41748766877424285169582cd459d060cfa/github-contribution-grid-snake-dark.svg?token=AZYQSRY3A3TCTMIAFSSBNDTIJ63IA />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset=https://raw.githubusercontent.com/knightempire/git_profile/ef1ef41748766877424285169582cd459d060cfa/github-contribution-grid-snake.svg?token=AZYQSR3XFWFCGIMUIMK5PDTIJ63UE />
+    <img src=https://raw.githubusercontent.com/knightempire/git_profile/ef1ef41748766877424285169582cd459d060cfa/github-contribution-grid-snake.svg?token=AZYQSR3XFWFCGIMUIMK5PDTIJ63UE alt="github-snake" />
   </picture>
   <br />
   <br />
