@@ -99,7 +99,7 @@
 
 ### 💬 Collaboration
 
-I'm open to collaborations and contributions! If you have any exciting projects or ideas, feel free to [get in touch](https://knightempire.github.io/abi-portfolio/).
+I'm open to collaborations and contributions! If you have any exciting projects or ideas, feel free to [get in touch](mailto:knightempire24@gmail.com).
 
 ---
 
