@@ -101,9 +101,5 @@
 
 I'm open to collaborations and contributions! If you have any exciting projects or ideas, feel free to mail me at [knightempire24@gmail.com](mailto:knightempire24@gmail.com).
 
----
-
-✨ Thank you for visiting my GitHub profile! ✨
-
 
 
