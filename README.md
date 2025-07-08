@@ -25,7 +25,7 @@
     <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" title="Tailwind CSS" alt="Tailwind CSS"/>
     <img src="https://img.icons8.com/color/48/000000/bootstrap.png" title="Bootstrap" alt="Bootstrap"/>
     <img src="https://img.icons8.com/plasticine/48/000000/react.png" title="React" alt="React"/>
-      <img src="https://img.icons8.com/ios/50/000000/vitejs.png" title="VitePress" alt="VitePress"/>
+      <img src="https://img.icons8.com/color/48/000000/vite.png" title="VitePress" alt="Vite"/>
      <img src="https://img.icons8.com/color/48/000000/nextjs.png" title="Next.js" alt="Next.js"/>
     <img src="https://img.icons8.com/color/48/000000/nodejs.png" title="Node.js" alt="Node.js"/>
     <img src="https://img.icons8.com/color/48/000000/express.png" title="Express.js" alt="Express.js"/>
